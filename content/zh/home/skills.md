@@ -24,7 +24,7 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "Optimisation in Data Science"  
   
 [[feature]]
   icon = "camera-retro"
