@@ -40,9 +40,10 @@ date_format = "Jan 2006"
   date_start = "2018-05-01"
   date_end = "2018-08-01"
   description = """
-  #description = """Taught electronic engineering and researched semiconductor physics."""
+  #description = """
   Responsibilities include:
   
   * Studies of target companies
   * Participation in modelling and the valuation of companies (LBO modelling ...)
+  """
 +++
