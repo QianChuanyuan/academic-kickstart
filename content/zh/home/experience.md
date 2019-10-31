@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Data scientist consultant(Intern)"
   company = "Argon consulting"
-  company_url = ""
+  company_url = "https://www.argon-consult.com/fr"
   location = "Levallois"
   date_start = "2019-04-01"
   date_end = "2019-08-31"
