@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Qian Chuanyuan
+name: 钱川远
 
 # Username (this should match the folder name)
 authors:
@@ -10,31 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Student of program M2 Data Science
+role:  Data Science研二在读
 
 # Organizations/Affiliations
 organizations:
-- name: Ecole Polytechnique
-  url: ""
+- name: 巴黎综合理工
+  url: "https://baike.baidu.com/item/巴黎综合理工大学"
 
 # Short bio (displayed in user profile at end of posts)
 bio: A student of data science.
 
 interests:
-- Machine learning
-- Data visulization 
+- 机器学习
+- 数据可视化
 
 
 education:
   courses:
-  - course: M2 Data Science
-    institution: Ecole Polytechnique
+  - course: 数据科学双学位
+    institution: 巴黎综合理工
     year: 2019-2020
-  - course: Cursus Ingenieur
-    institution: Ecole Polytechnique
+  - course: 工程师学位
+    institution: 巴黎综合理工
     year: 2016-2020
-  - course: BS in Mathematics
-    institution: Tongji Universuty
+  - course: 应用数学
+    institution: 同济大学
     year: 2012-2016
 
 # Social/Academic Networking
@@ -66,6 +66,6 @@ email: ""
 #- Visitors
 ---
 
-I am a student who is now looking for an end of study internship.
+一头data scientist
 
 
