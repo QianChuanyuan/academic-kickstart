@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Qian Bighetti
+name: Qian Chuanyuan
 
 # Username (this should match the folder name)
 authors:
