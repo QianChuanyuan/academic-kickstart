@@ -18,18 +18,24 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Used R for statistics"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "Optimisation in Data Science"  
+  description = "Optimisation for Data Science"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "Python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "Pandas, Pytorch"
+
+[[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "java"
+  description = "Used java a lot for algorithms"
 
 +++
