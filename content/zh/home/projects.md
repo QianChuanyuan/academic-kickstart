@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   #certificate_url = "https://www.coursera.org"
   date_start = "2019-04-01"
   date_end = "2019-07-01"
-  description = "Sales forecasts using state-of-the-art Machine Learning methods which will be used for organizing assortment."
+  description = """Sales forecasts using state-of-the-art Machine Learning methods which will be used for organizing assortment."""
 
 [[item]]
   #organization = "edX"
@@ -36,8 +36,7 @@ date_format = "Jan 2006"
   #certificate_url = "https://www.edx.org"
   date_start = "2018-09-01"
   date_end = "2018-12-01"
-  description = "Finding the origin of anomalies and to explain them by using the methods of Machine Learning based on an immense database containing several thousand features.
-"
+  description = """Finding the origin of anomalies and to explain them by using the methods of Machine Learning based on an immense database containing several thousand features."""
   
 [[item]]
   #organization = "Anomaly detection"
@@ -47,6 +46,6 @@ date_format = "Jan 2006"
   #certificate_url = "https://www.datacamp.com"
   date_start = "2017-10-01"
   date_end = "2018-04-11"
-  description = "A scientific project about analyzing road accidents based on data from INSEE, in partnership with the Eiffage construction group."
+  description = """A scientific project about analyzing road accidents based on data from INSEE, in partnership with the Eiffage construction group."""
 
 +++
