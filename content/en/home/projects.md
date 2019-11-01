@@ -36,8 +36,7 @@ date_format = "Jan 2006"
   #certificate_url = "https://www.edx.org"
   date_start = "2018-09-01"
   date_end = "2018-12-01"
-  description = "Finding the origin of anomalies and to explain them by using the methods of Machine Learning based on an immense database containing several thousand features.
-"
+  description = "Finding the origin of anomalies and to explain them by using the methods of Machine Learning based on an immense database containing several thousand features."
   
 [[item]]
   #organization = "Anomaly detection"
