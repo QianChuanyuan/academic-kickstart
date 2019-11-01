@@ -27,7 +27,7 @@ subtitle = ""
   description = "Optimisation for Data Science"  
   
 [[feature]]
-  icon = "Python"
+  icon = "python"
   icon_pack = "fab"
   name = "Python"
   description = "Pandas, Pytorch"
@@ -35,7 +35,7 @@ subtitle = ""
 [[feature]]
   icon = "java"
   icon_pack = "fab"
-  name = "java"
+  name = "Java"
   description = "Used java a lot for algorithms"
 
 +++
