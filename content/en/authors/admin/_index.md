@@ -33,8 +33,8 @@ education:
   - course: Cursus Ingenieur
     institution: Ecole Polytechnique
     year: 2016-2020
-  - course: BS in Mathematics
-    institution: Tongji Universuty
+  - course: BS in Applied Mathematics
+    institution: Tongji University
     year: 2012-2016
 
 # Social/Academic Networking
