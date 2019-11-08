@@ -21,7 +21,7 @@ date_format = "Jan 2006"
   title = "Data scientist consultant (Intern)"
   company = "Argon consulting"
   company_url = "https://www.argon-consult.com/fr"
-  location = "Levallois"
+  location = "Levallois, France"
   date_start = "2019-04-01"
   date_end = "2019-08-31"
   description = """
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   title = "Private equity analyst (Intern)"
   company = "Trail"
   company_url = ""
-  location = "Paris"
+  location = "Paris, France"
   date_start = "2018-05-01"
   date_end = "2018-08-01"
   description = """
@@ -45,4 +45,17 @@ date_format = "Jan 2006"
   * Studies of target companies
   * Participation in modelling and the valuation of companies (LBO modelling ...)
   """
+
+[[experience]]
+  title = "Assistant professor (Civilian service)"
+  company = "Edmond-Perrier High School"
+  company_url = ""
+  location = "Tulle, France"
+  date_start = "2016-10-01"
+  date_end = "2017-04-01"
+  description = """
+  Responsibilities include:
+  
+  * Assistant Professor in Mathematics and Computer Science
+   """
 +++
