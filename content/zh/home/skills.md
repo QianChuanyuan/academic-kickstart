@@ -19,19 +19,7 @@ subtitle = ""
   icon_pack = "fab"
   name = "R"
   description = "Used R for statistics"
-  
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "Optimisation for Data Science"  
 
-[[feature]]
-  icon = "chart-bar"
-  icon_pack = "fas"
-  name = "Power BI"
-  description = "Power BI for business analysis"
-  
 [[feature]]
   icon = "python"
   icon_pack = "fab"
@@ -43,5 +31,25 @@ subtitle = ""
   icon_pack = "fab"
   name = "Java"
   description = "Used java a lot for algorithms"
+  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Statistics"
+  description = "Optimisation for Data Science"  
+  
+[[feature]]
+  icon = "robot"
+  icon_pack = "fas"
+  name = "Machine Learning"
+  description = "Development and optimisation of Machine Learning model" 
+
+[[feature]]
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "Power BI"
+  description = "Power BI for business analysis"
+  
+
 
 +++
