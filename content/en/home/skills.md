@@ -27,8 +27,8 @@ subtitle = ""
   description = "Optimisation for Data Science"  
 
 [[feature]]
-  icon = "file-chart-line"
-  icon_pack = "far"
+  icon = "chart-bar"
+  icon_pack = "fas"
   name = "Power BI"
   description = "Power BI for business analysis"
   
