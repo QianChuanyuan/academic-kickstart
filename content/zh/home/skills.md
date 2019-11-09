@@ -25,6 +25,12 @@ subtitle = ""
   icon_pack = "fas"
   name = "Statistics"
   description = "Optimisation for Data Science"  
+
+[[feature]]
+  icon = "file-chart-line"
+  icon_pack = "fa"
+  name = "Power BI"
+  description = "Power BI for business analysis"
   
 [[feature]]
   icon = "python"
