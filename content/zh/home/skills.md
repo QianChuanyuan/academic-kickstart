@@ -28,7 +28,7 @@ subtitle = ""
 
 [[feature]]
   icon = "file-chart-line"
-  icon_pack = "fa"
+  icon_pack = "far"
   name = "Power BI"
   description = "Power BI for business analysis"
   
