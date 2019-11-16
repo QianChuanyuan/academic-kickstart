@@ -23,6 +23,7 @@ bio: A student of data science.
 interests:
 - Machine learning
 - Data visualisation
+- Consulting
 
 
 education:

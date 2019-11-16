@@ -23,6 +23,7 @@ bio: A student of data science.
 interests:
 - 机器学习
 - 数据可视化
+- 咨询
 
 
 education:
