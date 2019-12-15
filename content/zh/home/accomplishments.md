@@ -28,6 +28,16 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Introduction to Spreadsheets and Models"
+  url = "https://www.coursera.org/learn/wharton-introduction-spreadsheets-models/home/welcome"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/CMZ3SL3M393J?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate"
+  date_start = "2019-11-01"
+  date_end = ""
+  description = ""
+
 
 
 +++
