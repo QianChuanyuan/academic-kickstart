@@ -25,6 +25,12 @@ date_format = "Jan 2006"
   location = "Levallois, France"
   date_start = "2019-11-01"
   date_end = "2019-04-15"
+  description = """
+  Responsibilities include:
+  
+  * Research on Explainable AI
+  * Help the clients to better organise their procurement by using Machine learning methods
+  """
 
 
 [[experience]]
