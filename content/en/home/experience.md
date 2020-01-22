@@ -20,8 +20,8 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Data scientist consultant (Alternance)"
-  company = "Argon consulting"
-  company_url = "https://www.argon-consult.com/fr"
+  company = "Argon & Co (Ex. Argon Consulting)"
+  company_url = "https://www.argonandco.com/fr/"
   location = "Levallois, France"
   date_start = "2019-11-01"
   date_end = "2019-04-15"
@@ -29,8 +29,8 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Data scientist consultant (Intern)"
-  company = "Argon consulting"
-  company_url = "https://www.argon-consult.com/fr"
+  company = "Argon & Co (Ex. Argon Consulting)"
+  company_url = "https://www.argonandco.com/fr/"
   location = "Levallois, France"
   date_start = "2019-04-01"
   date_end = "2019-08-31"
