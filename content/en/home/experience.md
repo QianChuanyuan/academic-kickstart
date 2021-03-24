@@ -32,6 +32,28 @@ date_format = "Jan 2006"
   * Help the clients to better organise their procurement by using Machine learning methods
   """
 
+[[experience]]
+  title = "Data scientist"
+  company = "􏰂􏱙􏱏􏱝􏰯􏰡􏰾􏱏􏰂􏱙􏱏􏱝􏰯􏰡􏰾􏱏Artefact"
+  company_url = "https://www.artefact.com/"
+  location = "Shanghai, China"
+  date_start = "2020-06-08"
+  date_end = ""
+  description = """
+􏰘􏰩􏰡􏱆 􏱏􏱃􏱝 Play the role of Data Scientist in the team, cooperate with consultant and data engineer to deliver the solution/product
+
+  Responsibilities include:
+  
+  * Design the logic behind the solution
+  * Design the AB test
+  * Data assessment
+  * Data analysis for the data from client
+  * Trend detection
+  * Build the dashboard
+	
+
+  """
+
 
 [[experience]]
   title = "Data scientist consultant (Intern)"

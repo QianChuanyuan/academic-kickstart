@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: A student of data science.
+bio: A data scientist.
 
 interests:
 - Machine learning
 - Data visualisation
-- Consulting
+- Business
 
 
 education:

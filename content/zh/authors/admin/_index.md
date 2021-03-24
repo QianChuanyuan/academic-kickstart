@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role:  Data Science研二在读
+role:  Data Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -23,7 +23,7 @@ bio: A student of data science.
 interests:
 - 机器学习
 - 数据可视化
-- 咨询
+- 商业化
 
 
 education:
