@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Design the logic behind the solution
-  * Design the AB test
+  * Design the A/B test
   * Data assessment
   * Data analysis for the data from client
   * Trend detection
