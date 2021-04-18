@@ -67,6 +67,6 @@ email: ""
 #- Visitors
 ---
 
-I am a student who is now looking for an end of study internship.
+Data scientist working for a consulting company.
 
 
