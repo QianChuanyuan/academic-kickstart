@@ -36,6 +36,7 @@ date_format = "Jan 2006"
   * Data assessment
   * Data analysis for the data from client
   * Trend detection
+  * Profiling
   * Build the dashboard
 	
 
