@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_start = "2020-06-08"
   date_end = ""
   description = """
-􏰘􏰩􏰡􏱆 􏱏􏱃􏱝 Play the role of Data Scientist in the team, cooperate with consultant and data engineer to deliver the solution/product
+  Play the role of Data Scientist in the team, cooperate with consultant and data engineer to deliver the solution/product.
 
   Responsibilities include:
   
@@ -36,6 +36,7 @@ date_format = "Jan 2006"
   * Data assessment
   * Data analysis for the data from client
   * Trend detection
+  * Profiling
   * Build the dashboard
 	
 

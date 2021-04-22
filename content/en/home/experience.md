@@ -21,13 +21,13 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Data scientist"
-  company = "􏰂􏱙􏱏􏱝􏰯􏰡􏰾􏱏􏰂􏱙􏱏􏱝􏰯􏰡􏰾􏱏Artefact"
+  company = "􏰂􏱙􏱏􏱝􏰯􏰡􏰾􏱏􏰂􏱙􏱏􏱝􏰯􏰡􏰾􏱏 Artefact"
   company_url = "https://www.artefact.com/"
   location = "Shanghai, China"
   date_start = "2020-06-08"
   date_end = ""
   description = """
-  Play the role of Data Scientist in the team, cooperate with consultant and data engineer to deliver the solution/product
+  Play the role of Data Scientist in the team, cooperate with consultant and data engineer to deliver the solution/product.
 
   Responsibilities include:
   
