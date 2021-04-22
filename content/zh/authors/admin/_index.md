@@ -14,8 +14,8 @@ role:  Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: 巴黎综合理工
-  url: "https://baike.baidu.com/item/巴黎综合理工大学"
+- name: Artefact
+  url: "https://www.artefact.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: A student of data science.
@@ -24,6 +24,7 @@ interests:
 - 机器学习
 - 数据可视化
 - 商业化
+- 数据分析
 
 
 education:
@@ -67,6 +68,6 @@ email: ""
 #- Visitors
 ---
 
-一头data scientist
+A data scientist
 
 

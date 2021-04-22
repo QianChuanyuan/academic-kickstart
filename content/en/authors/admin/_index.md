@@ -14,8 +14,8 @@ role: Student of program M2 Data Science
 
 # Organizations/Affiliations
 organizations:
-- name: Ecole Polytechnique
-  url: ""
+- name: Artefact
+  url: "https://www.artefact.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: A data scientist.
@@ -24,6 +24,7 @@ interests:
 - Machine learning
 - Data visualisation
 - Business
+- Data analysis
 
 
 education:
@@ -67,6 +68,6 @@ email: ""
 #- Visitors
 ---
 
-Data scientist working for a consulting company.
+A data scientist
 
 
