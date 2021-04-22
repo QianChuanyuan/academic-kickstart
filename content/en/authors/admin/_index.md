@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Student of program M2 Data Science
+role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
