@@ -14,6 +14,13 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL"
+  description = "Proficient in SQL"
+
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
