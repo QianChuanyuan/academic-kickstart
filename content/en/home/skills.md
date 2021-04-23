@@ -16,10 +16,10 @@ subtitle = ""
 
 
 [[feature]]
-  icon = "fa-database"
+  icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = "Familiar with SQL"
+  description = "Proficient in SQL"
 
 [[feature]]
   icon = "r-project"
